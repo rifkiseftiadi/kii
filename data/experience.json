@@ -1,0 +1,40 @@
+{
+  "experience": [
+    {
+      "clogo": "/companyLogo/html.png",
+      "title": "HTML",
+      "company": "-------",
+      "point1": "Menggunakan HTML di Visual Studio Code.",
+      "point2": "Mengoptimalkan struktur HTML dengan fitur Emmet di VS Code untuk meningkatkan aksesibilitas dan pengalaman pengguna.",
+      "startDate": "2023",
+      "endDate": "Present"
+    },
+    {
+      "clogo": "/companyLogo/css.png",
+      "title": "CSS",
+      "company": "-----",
+      "point1": "Menggunakan CSS di Visual Studio Code untuk menciptakan elemen visual yang menarik bagi komunitas pengembang dan penggemar teknologi.",
+      "point2": "Menggunakan ekstensi Live Server di VS Code untuk memvisualisasikan perubahan secara real-time dan memastikan desain responsif.",
+      "startDate": "2023",
+      "endDate": "Present"
+    },
+    {
+      "clogo": "/companyLogo/next js.png",
+      "title": "NEXT JS",
+      "company": "----------",
+      "point1": "Sedang mempelajari dan mengembangkan penggunakan Next.js di Visual Studio Code.",
+      "point2": "Mengimplementasikan fitur untuk proyek seperti restorePhotos, WeMakeDevs, dan Abbreve dengan memanfaatkan debugging bawaan di VS Code.",
+      "startDate": "2024",
+      "endDate": "Present"
+    },
+    {
+      "clogo": "/companyLogo/php.png",
+      "title": "PHP",
+      "company": "-----",
+      "point1": "Memanfaatkan integrasi terminal di VS Code untuk menjalankan skrip PHP dan berkontribusi dalam inisiatif komunitas seperti tantangan Hashnode dan pengelolaan media sosial.",
+      "point2": "Menggunakan fitur IntelliSense di VS Code untuk meningkatkan produktivitas saat menulis kode PHP.",
+      "startDate": "2024",
+      "endDate": "Present"
+    }
+  ]
+}
